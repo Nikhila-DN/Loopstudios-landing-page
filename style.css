@@ -194,6 +194,10 @@ header .desktop-nav {
   gap: 24px;
 }
 
+.sec2-desktop-btn{
+  display: none;
+}
+
 .sec2-gallary .gallary {
   width: 100%;
   height: 120px;
